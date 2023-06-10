@@ -1,6 +1,6 @@
 <template>
     <div class="padding-top vh-100">
-        Categorie
+        <h1>work in progress</h1>
     </div>
 </template>
 

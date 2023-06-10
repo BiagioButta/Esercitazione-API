@@ -1,6 +1,6 @@
 <template>
-    <div>
-        Shop
+    <div class="padding-top">
+        <h1>cart work in progress</h1>
     </div>
 </template>
 

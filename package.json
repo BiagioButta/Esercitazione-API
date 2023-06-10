@@ -11,6 +11,7 @@
     "@fortawesome/fontawesome-free": "^6.4.0",
     "axios": "^1.4.0",
     "bootstrap": "^5.2.3",
+    "require-context": "^1.1.0",
     "sass": "^1.62.1",
     "vue": "^3.3.2",
     "vue-carousel-3d": "^1.0.1",
